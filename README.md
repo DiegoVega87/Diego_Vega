@@ -1,6 +1,6 @@
 ### Table of Contents
 https://assets.grammarly.com/emoji/v1/1f91d.svg
-1. [Speech Cognitive Services]()
+1. [Speech Cognitive Services](https://github.com/DiegoVega87/DiegoVega/edit/main/README.md#using-speech-services-for-translation)
 
 # Using Speech Services for Translation
 
