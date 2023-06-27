@@ -2,7 +2,7 @@
 https://assets.grammarly.com/emoji/v1/1f91d.svg
 1. [Speech Cognitive Services](https://github.com/DiegoVega87/DiegoVega/blob/main/README.md#using-speech-services-for-translation)
 
-#1 Using Speech Services for Translation
+# Using Speech Services for Translation
 
 Recently Microsoft discontinued its Azure Speech Translate Cognitive Service, or rather, migrated it over to another service: the _Speech Service_. My students over on my
 [Azure Cognitive Services course](https://www.udemy.com/azure-machine-learning-using-cognitive-services) were
