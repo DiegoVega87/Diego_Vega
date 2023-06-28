@@ -1,3 +1,5 @@
+# The content on this page is not my property, I have just borrowed it from Eduardo Rosas' (LaloCo) Git&GitHubMasterclass
+
 ### Table of Contents
 1. [Speech Cognitive Services](https://github.com/DiegoVega87/DiegoVega/blob/main/README.md#using-speech-services-for-translation)
 
