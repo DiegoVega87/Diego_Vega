@@ -1,5 +1,3 @@
-# The content on this page is not my property, I have just borrowed it from Eduardo Rosas' (LaloCo) Git&GitHubMasterclass
-
 ### Table of Contents
 1. [Speech Cognitive Services](https://github.com/DiegoVega87/DiegoVega/blob/main/README.md#using-speech-services-for-translation)
 
@@ -23,3 +21,5 @@ print("Say something in English to be translated into Spanish and German:")
 resutl = recognizer.recognize_once()
 ```
 [**Visit the repository here for more**](https://github.com/LaloCo/SpeechCognitiveService_Translate)
+
+###### The content on this page is not my property, I have just borrowed it from Eduardo Rosas' (LaloCo) Git&GitHubMasterclass
