@@ -14,6 +14,6 @@ and leave votes on facts.
 To see the source code click [here](https://github.com/DiegoVega87/My-First-Full-Stack-App)
 
 # Java Applications I have developed
-[Students Database Application](https://github.com/DiegoVega87/StudentDatabaseApp?tab=readme-ov-file#student-database-application)
+<a href="https://github.com/DiegoVega87/StudentDatabaseApp?tab=readme-ov-file#student-database-application" target="_blank"> Students Database Application  </a>
 
 
