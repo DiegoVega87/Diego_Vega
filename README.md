@@ -1,25 +1,7 @@
 ### Table of Contents
-1. [Speech Cognitive Services](https://github.com/DiegoVega87/DiegoVega/blob/main/README.md#using-speech-services-for-translation)
+1. [A little about me](https://github.com/DiegoVega87/DiegoVega/blob/main/README.md#How-am-I-professionally)
 
-# Using Speech Services for Translation
+# How am I professionally
 
-Recently Microsoft discontinued its Azure Speech Translate Cognitive Service, or rather, migrated it over to another service: the _Speech Service_. My students over on my
-[Azure Cognitive Services course](https://www.udemy.com/azure-machine-learning-using-cognitive-services) were
-wondering what had happened, so I created this example for them, in which they can create a recognizer using t
-the new SDK:
+I am a goal-oriented individual with analytical and critical thinking skills. I can work effectively in both a team environment and independently, and I am always willing to go the extra mile to ensure tasks are completed to the highest standard. I am also punctual, responsible, and committed to my work, and I maintain a high standard of professional ethics.
 
-
-```python
-recognizer = tl.TranslationRecognizer(translation_config=speech_config)
-```
-
-And then use it to translate between languages:
-
-```python
-print("Say something in English to be translated into Spanish and German:")
-
-resutl = recognizer.recognize_once()
-```
-[**Visit the repository here for more**](https://github.com/LaloCo/SpeechCognitiveService_Translate)
-
-###### The content on this page is not my property, I have just borrowed it from Eduardo Rosas' (LaloCo) Git&GitHubMasterclass
