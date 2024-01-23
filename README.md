@@ -1,17 +1,3 @@
-### Table of Contents
-1. [A little about me](https://github.com/DiegoVega87/DiegoVega/blob/main/README.md#How-am-I-professionally)
-2. [My first full stack web application](https://github.com/DiegoVega87/DiegoVega/blob/main/README.md#My-First-Full-Stack-Web-Application)
-3. [Java Projects I have developed](https://github.com/DiegoVega87/DiegoVega/blob/main/README.md#How-am-I-professionally)
-
-
-
-
-
-
-
-
-
-
 
 # How am I professionally
 
@@ -26,5 +12,8 @@ and leave votes on facts.
 [Click here to see my full stack web app](https://myfirstfullstackwebapp.netlify.app/)
 
 To see the source code click [here](https://github.com/DiegoVega87/My-First-Full-Stack-App)
+
+# Java Applications I have developed
+[Students Database Application](https://github.com/DiegoVega87/StudentDatabaseApp?tab=readme-ov-file#student-database-application)
 
 
