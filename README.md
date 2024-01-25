@@ -1,5 +1,5 @@
 
-# How am I professionally ![yo](https://github.com/DiegoVega87/Diego_Vega/blob/main/images/DiegoNBG.png)
+# How am I professionally
 
 I am a goal-oriented individual with analytical and critical thinking skills. I can work effectively in both a team environment and
 independently, and I am always willing to go the extra mile to ensure tasks are completed to the highest standard. I am also punctual,
