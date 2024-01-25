@@ -15,7 +15,7 @@ and leave votes on facts.
 
 # Java Applications I have developed
 
-<a href="https://github.com/DiegoVega87/TodoList/tree/main#todo-list-application" target="_blank"> TodoList Application </a>
+<a href="https://github.com/DiegoVega87/TodoList/tree/main#todo-list-application" target="_blank"> ToDoList Application </a>
 
 <a href="https://github.com/DiegoVega87/BankApplication#bank-application" target="_blank"> Bank Application</a>
 
@@ -23,5 +23,10 @@ and leave votes on facts.
 
 <a href="https://github.com/DiegoVega87/StudentDatabaseApp?tab=readme-ov-file#student-database-application" target="_blank"> Students Database Application </a>
 
+# Problem Solving
+
+I have dedicated a good part of the past two years to solving problems found on sites like Udemy, HackeRank, and Leetcode.
+
+<a href="https://github.com/stars/DiegoVega87/lists/practice-problems-for-interviews" target="_blank"> Problems solved from Udemy</a>
 
 
