@@ -29,4 +29,6 @@ I have dedicated a good part of the past two years to solving problems found on 
 
 <a href="https://github.com/stars/DiegoVega87/lists/practice-problems-for-interviews" target="_blank"> Problems solved from Udemy</a>
 
+<a href="https://www.hackerrank.com/profile/Diego_V87" target="_blank">HackerRank profile </a>
+
 
