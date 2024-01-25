@@ -11,9 +11,11 @@ This fully responsive web application adapts to all screen sizes. It allows you 
 and leave votes on facts.  
 [Click here to see my full stack web app](https://myfirstfullstackwebapp.netlify.app/)
 
-To see the source code click [here](https://github.com/DiegoVega87/My-First-Full-Stack-App)
 
 # Java Applications I have developed
-<a href="https://github.com/DiegoVega87/StudentDatabaseApp?tab=readme-ov-file#student-database-application" target="_blank"> Students Database Application  </a>
+[Company Email Generator Application](https://github.com/DiegoVega87/Email-Application#email-application)
+
+<a href="https://github.com/DiegoVega87/StudentDatabaseApp?tab=readme-ov-file#student-database-application" target="_blank"> Students Database Application </a>
+
 
 
