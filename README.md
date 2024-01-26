@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h2 align="center">Hey there! I'm Diego Vega.</h2>
 
-<img align="right" src="./DvPic.jpeg" width="350">
+<img align="right" src="./DvPic.jpeg" >
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <p aling="left">
@@ -37,7 +37,7 @@
 
  <h2 align="center">⬇ Connect with Me ⬇</h2>
  
- <p align="left"> <a href="https://www.github.com/DiegoVega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diegovega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ <p align="center"> <a href="https://www.github.com/DiegoVega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a> <a href="https://www.linkedin.com/in/diegovega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a>
 </p>
  
 
