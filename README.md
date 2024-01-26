@@ -1,5 +1,5 @@
 
-# How am I professionally
+<h2 align="center"> Hey there! I'm Diego Vega. <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.giff" width="25"> </h2>
 
 > I am a goal-oriented individual with
 > analytical and critical thinking skills.
@@ -16,27 +16,27 @@
 This fully responsive web application adapts to all screen sizes. It allows you to share facts, filter facts by category, access fact sources,
 and leave votes on facts.
 
-<a href="https://myfirstfullstackwebapp.netlify.app/" target="_blank">Click here to see my full stack web app </a>
+`<link>` : <a href="https://myfirstfullstackwebapp.netlify.app/" target="_blank">My Full Stack Web App</a>
 
 
 # Java Applications I have developed
 
-<a href="https://github.com/DiegoVega87/TodoList/tree/main#todo-list-application" target="_blank"> ToDoList Application </a>
+`<link>` : <a href="https://github.com/DiegoVega87/TodoList/tree/main#todo-list-application" target="_blank"> ToDoList Application </a>
 
-<a href="https://github.com/DiegoVega87/BankApplication#bank-application" target="_blank"> Bank Application</a>
+`<link>` : <a href="https://github.com/DiegoVega87/BankApplication#bank-application" target="_blank"> Bank Application</a>
 
-<a href="https://github.com/DiegoVega87/Email-Application#email-application" target="_blank"> Company Email Generator Application</a>
+`<link>` : <a href="https://github.com/DiegoVega87/Email-Application#email-application" target="_blank"> Company Email Generator Application</a>
 
-<a href="https://github.com/DiegoVega87/StudentDatabaseApp?tab=readme-ov-file#student-database-application" target="_blank"> Students Database Application </a>
+`<link>` : <a href="https://github.com/DiegoVega87/StudentDatabaseApp?tab=readme-ov-file#student-database-application" target="_blank"> Students Database Application </a>
 
 # Problem Solving
 
 I have dedicated a good part of the past two years to solving problems found on sites like Udemy, HackeRank, and Leetcode.
 
-<a href="https://github.com/stars/DiegoVega87/lists/practice-problems-for-interviews" target="_blank"> Problems solved from Udemy</a>
+`<link>` : <a href="https://github.com/stars/DiegoVega87/lists/practice-problems-for-interviews" target="_blank"> Problems solved from Udemy</a>
 
-<a href="https://www.hackerrank.com/profile/Diego_V87" target="_blank">HackerRank profile </a>
+`<link>` : <a href="https://www.hackerrank.com/profile/Diego_V87" target="_blank">HackerRank profile </a>
 
-<a href="https://leetcode.com/Dvega87/" target="_blank"> LeetCode profile</a>
+`<link>` : <a href="https://leetcode.com/Dvega87/" target="_blank"> LeetCode profile</a>
 
 
