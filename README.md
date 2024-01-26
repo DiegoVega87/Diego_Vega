@@ -19,7 +19,7 @@
 
 🗺️ &nbsp;Based in Almería, Spain.<br>
 💼 &nbsp;Currently looking to get hired as a Software Developer/Web Developer.<br>
-🔭 &nbsp;Currently learning about Spring Framework, AWS, React, Docker, Spring Data JPA & Spring Security.<br>
+🧠 &nbsp;Currently learning about Spring Framework, AWS, React, Docker, Spring Data JPA & Spring Security.<br>
 ✈️ &nbsp;Enthusiast in exploring new technologies and developing software solutions.<br>
 🌐 &nbsp; I speak Spanish and English fluently and am currently learning French.
 </p>
