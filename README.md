@@ -17,10 +17,11 @@
  and committed to my work, and I maintain a
  high standard of professional ethics.
 
-🌱 &nbsp;Based in Almería, Spain.<br>
+🗺️ &nbsp;Based in Almería, Spain.<br>
 💼 &nbsp;Currently looking to get hired as a Software Developer/Web Developer.<br>
 🔭 &nbsp;Currently learning about Spring Framework, AWS, React, Docker, Spring Data JPA & Spring Security.<br>
 ✈️ &nbsp;Enthusiast in exploring new technologies and developing software solutions.<br>
+:es: :us: :fr:&nbsp; I speak Spanish and English fluently and am currently learning French.
 </p>
 <br>
 
