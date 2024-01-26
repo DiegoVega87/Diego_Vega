@@ -44,6 +44,9 @@
 ---
 
 <h3 align="center">I invite you to take a look at some of the projects and problems I have done/solved! </h2>
+<div align="center">
+<img src="https://media1.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif?cid=ecf05e47r98tefdk55q7z1fdbnr7e86e72hhqkcyrw281zjd&rid=giphy.gif&ct=g" width="480" height="270" />
+</div>
 
 ---
 
