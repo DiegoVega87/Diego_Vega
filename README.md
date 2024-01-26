@@ -1,5 +1,6 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h2 align="center">Hey there! I'm Diego Vega.</h2>
+<img align="right" src="https://github.com/DiegoVega87/Diego_Vega/blob/main/DvPic.jpeg" width="350">
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <p aling="left">
  I am a goal-oriented individual with
