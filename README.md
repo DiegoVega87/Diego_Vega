@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=java,python,git,docker,jenkins,azure,postgresql,mysql,php,r,eclipse,vscode,github,idea,sqlite,html,css,javascript" />
   </a>
 </p>
-
+</br>
 ---
 
  <h2 align="center">⬇ Connect with Me ⬇</h2>
