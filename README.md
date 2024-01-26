@@ -1,15 +1,17 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h2 align="center">Hey there! I'm Diego Vega.</h2>
 
-> I am a goal-oriented individual with
-> analytical and critical thinking skills.
-> I can work effectively in both a team
-> environment and independently, and I am
-> always willing to go the extra mile to
-> ensure tasks are completed to the highest
-> standard. I am also punctual, responsible,
-> and committed to my work, and I maintain a
->  high standard of professional ethics.
+<p aling="left">
+ I am a goal-oriented individual with
+ analytical and critical thinking skills.
+ I can work effectively in both a team
+ environment and independently, and I am
+ always willing to go the extra mile to
+ ensure tasks are completed to the highest
+ standard. I am also punctual, responsible,
+ and committed to my work, and I maintain a
+ high standard of professional ethics.
+</p>
 
 # My First Full Stack Web Application
 
