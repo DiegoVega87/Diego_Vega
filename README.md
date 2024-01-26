@@ -31,12 +31,12 @@
  <h2 align="center">⬇ Connect with Me ⬇</h2>
  <p align="left"> <a href="https://www.github.com/DiegoVega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diegovega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
  
- ---
+
 
 
 <h3 align="center">I invite you to take a look at some of the projects and problems I have done/solved! </h2> :point_down::point_down::point_down::point_down::point_down:
 
----
+
  
 ### My First Full Stack Web Application
 
