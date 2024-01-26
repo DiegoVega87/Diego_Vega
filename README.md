@@ -18,6 +18,7 @@
 🔭 &nbsp;Currently learning about Spring Framework, AWS, React, Docker, Spring Data JPA & Spring Security.<br>
 🛩 &nbsp;Enthusiast in exploring new technologies and developing software solutions.<br>
 <br>
+
 <h2 align="center">
   👷🏼 Here are some technologies/ides/libraries I have used:
 </h2>
@@ -26,11 +27,13 @@
     <img src="https://skillicons.dev/icons?i=java,python,git,docker,jenkins,azure,postgresql,mysql,php,r,eclipse,vscode,github,idea,sqlite,html,css,javascript" />
   </a>
 </p>
+
 </br>
 
 ---
 
  <h2 align="center">⬇ Connect with Me ⬇</h2>
+ 
  <p align="left"> <a href="https://www.github.com/DiegoVega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diegovega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
  
 
@@ -42,12 +45,14 @@
 
 
  
-### My First Full Stack Web Application
+# My First Full Stack Web Application
 
 This fully responsive web application adapts to all screen sizes. It allows you to share facts, filter facts by category, access fact sources,
 and leave votes on facts.
 
 `<link>` : <a href="https://myfirstfullstackwebapp.netlify.app/" target="_blank">My Full Stack Web App</a>
+
+---
 
 
 # Java Applications I have developed
@@ -59,6 +64,8 @@ and leave votes on facts.
 `<link>` : <a href="https://github.com/DiegoVega87/Email-Application#email-application" target="_blank"> Company Email Generator Application</a>
 
 `<link>` : <a href="https://github.com/DiegoVega87/StudentDatabaseApp?tab=readme-ov-file#student-database-application" target="_blank"> Students Database Application </a>
+
+---
 
 # Problem Solving
 
