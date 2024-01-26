@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h2 align="center">Hey there! I'm Diego Vega.</h2>
 
-<img align="right" src="./DvPic.jpeg" width="300">
+<img align="right" src="./DvPic.jpeg" width="350">
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <p aling="left">
@@ -18,7 +18,7 @@
 🌱 &nbsp;Based in Almería, Spain.<br>
 💼 &nbsp;Currently looking to get hired as a Software Developer/Web Developer.<br>
 🔭 &nbsp;Currently learning about Spring Framework, AWS, React, Docker, Spring Data JPA & Spring Security.<br>
-🛩 &nbsp;Enthusiast in exploring new technologies and developing software solutions.<br>
+✈️ &nbsp;Enthusiast in exploring new technologies and developing software solutions.<br>
 </p>
 <br>
 
