@@ -34,7 +34,7 @@
 
 
 
-<h3 align="center">I invite you to take a look at some of the projects and problems I have done/solved! </h2> :point_down::point_down::point_down::point_down::point_down:
+<h3 align="center">I invite you to take a look at some of the projects and problems I have done/solved! </h2> 👇
 
 
  
