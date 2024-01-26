@@ -13,6 +13,10 @@
  and committed to my work, and I maintain a
  high standard of professional ethics.
 </p>
+🌱 &nbsp;Based in Almería, Spain.<br>
+💼 &nbsp;Currently looking to get hired as a Software Developer/Web Developer.<br>
+🔭 &nbsp;Currently deepening Spring Framework, AWS, React, Docker, Spring Data JPA & Spring Security<br>
+🛩 &nbsp;Enthusiast in exploring new technologies and developing software solutions.<br>
 
 # My First Full Stack Web Application
 
