@@ -1,6 +1,8 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h2 align="center">Hey there! I'm Diego Vega.</h2>
+
 <img align="right" src="https://github.com/DiegoVega87/Diego_Vega/blob/main/DvPic.jpeg" width="300">
+
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <p aling="left">
  I am a goal-oriented individual with
@@ -12,11 +14,12 @@
  standard. I am also punctual, responsible,
  and committed to my work, and I maintain a
  high standard of professional ethics.
-</p>
+
 🌱 &nbsp;Based in Almería, Spain.<br>
 💼 &nbsp;Currently looking to get hired as a Software Developer/Web Developer.<br>
 🔭 &nbsp;Currently learning about Spring Framework, AWS, React, Docker, Spring Data JPA & Spring Security.<br>
 🛩 &nbsp;Enthusiast in exploring new technologies and developing software solutions.<br>
+</p>
 <br>
 
 <h2 align="center">
@@ -28,18 +31,19 @@
   </a>
 </p>
 
-</br>
+<br/>
 
 ---
 
  <h2 align="center">⬇ Connect with Me ⬇</h2>
  
- <p align="left"> <a href="https://www.github.com/DiegoVega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diegovega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ <p align="left"> <a href="https://www.github.com/DiegoVega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diegovega87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
  
 
 ---
 
-<h3 align="center">I invite you to take a look at some of the projects and problems I have done/solved! </h2> 👇
+<h3 align="center">I invite you to take a look at some of the projects and problems I have done/solved! </h2>
 
 ---
 
