@@ -78,14 +78,17 @@ and leave votes on facts.
 
 # Problem Solving
 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)   ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)   ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 I have dedicated a good part of the past two years to solving problems found on sites like Udemy, HackeRank, and Leetcode.
 
 `<link>`: <a href="https://github.com/stars/DiegoVega87/lists/practice-problems-for-interviews" target="_blank"> Problems solved from Udemy</a> <br>
 `<link>`: <a href="https://www.hackerrank.com/profile/Diego_V87" target="_blank">HackerRank profile </a> <br>
-`<link>`: <a href="https://leetcode.com/Dvega87/" target="_blank"> LeetCode profile</a>
+`<link>`: <a href="https://leetcode.com/Dvega87/" target="_blank"> LeetCode profile</a> <br>
+`<link>`: <a href="https://learn.microsoft.com/en-us/users/DiegoVega87" target="_blank"> Microsoft Learn profile</a>
+ 
+
  
 
 
