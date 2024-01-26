@@ -15,7 +15,7 @@
  ensure tasks are completed to the highest
  standard. I am also punctual, responsible,
  and committed to my work, and I maintain a
- high standard of professional ethics.
+ high standard of professional ethics. <br>
 
 🗺️ &nbsp;Based in Almería, Spain.<br>
 💼 &nbsp;Currently looking to get hired as a Software Developer/Web Developer.<br>
