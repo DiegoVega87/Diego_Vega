@@ -24,7 +24,7 @@
 </p>
 <br>
 
-<h2 align="center">
+<h2 align="left">
   👷🏼 Here are some technologies/ides/libraries I have used:
 </h2>
 <p align="center">
@@ -50,7 +50,6 @@
 <img src="https://media1.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif?cid=ecf05e47r98tefdk55q7z1fdbnr7e86e72hhqkcyrw281zjd&rid=giphy.gif&ct=g" width="480" height="270" />
 </div>
 
----
 
 
  
